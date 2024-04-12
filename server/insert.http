@@ -1,0 +1,4 @@
+POST http://localhost:4000/api/v1/insert/posts
+
+###
+POST http://localhost:4000/api/v1/insert/roles
